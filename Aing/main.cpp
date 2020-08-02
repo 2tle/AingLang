@@ -3,7 +3,7 @@
 
 int main(int argc, char** argv) {
 	wcin.imbue( locale( "C" ) );
-    wcout.imbue( locale( "C" ) ); 
+    	wcout.imbue( locale( "C" ) ); 
 
 	Code code;
 	
